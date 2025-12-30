@@ -1,0 +1,5 @@
+{
+  "name": "Internship Decision Engine",
+  "description": "A high-precision deterministic scoring system for evaluating internship opportunities based on a fixed rubric and profile alignment.",
+  "requestFramePermissions": []
+}
